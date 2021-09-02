@@ -55,9 +55,9 @@
 
 ### 类型安全
 
-1.相比C多了许多保证类型安全的机制（const，inline代替define，模板代替void*，new比malloc等）
-2.但也不是类型安全的（内存的不同表达，int 1=》bool true，隐形类型转换）。
-https://blog.csdn.net/a3192048/article/details/82499164
+1. 相比C多了许多保证类型安全的机制（const，inline代替define，模板代替void*，new比malloc等）；
+2. 但也不是类型安全的（内存的不同表达，int 1=》bool true，隐形类型转换）。
+3. 链接：https://blog.csdn.net/a3192048/article/details/82499164
 
 ### const
 
