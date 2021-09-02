@@ -1011,6 +1011,10 @@ new (place_address) type [size] { braced initializer list }
 * `place_address` 是个指针
 * `initializers` 提供一个（可能为空的）以逗号分隔的初始值列表
 
+#### malloc和new的区别
+
+原文链接：https://blog.csdn.net/nie19940803/article/details/76358673
+
 ### delete this 合法吗？
 
 > [Is it legal (and moral) for a member function to say delete this?](https://isocpp.org/wiki/faq/freestore-mgmt#delete-this)
