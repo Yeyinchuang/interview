@@ -3411,7 +3411,16 @@ int main( void )
 * [cnblogs . C++面试集锦( 面试被问到的问题 )](https://www.cnblogs.com/Y1Focus/p/6707121.html)
 * [cnblogs . C/C++ 笔试、面试题目大汇总](https://www.cnblogs.com/fangyukuan/archive/2010/09/18/1829871.html)
 * [cnblogs . 常见C++面试题及基本知识点总结（一）](https://www.cnblogs.com/LUO77/p/5771237.html)
-* [segmentfault . C++常见面试问题总结](https://segmentfault.com/a/1190000003745529)
+* [线程通信](https://blog.csdn.net/rusbme/article/details/97620877)
+* [自旋锁（shared_lock）和互斥锁(unique_lock)](https://blog.csdn.net/princeteng/article/details/103952888)
+* [僵尸进程 孤儿进程](https://www.cnblogs.com/Anker/p/3271773.html)
+* [fork() vfork()](https://blog.csdn.net/gogokongyin/article/details/51178257)
+* [epoll原理](https://blog.csdn.net/songchuwang1868/article/details/89877739?utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-1.no_search_link)
+* [epoll（数据结构和水平边缘触发）](https://blog.csdn.net/daaikuaichuan/article/details/83862311)
+* [一致性哈希（hash圈，顺时针旋转到最近）](https://www.cnblogs.com/lpfuture/p/5796398.html)
+* [大量的time_wait问题：改残参数增加复用](https://www.cnblogs.com/dadonggg/p/8778318.html)
+* [惊群](http://www.360doc.com/content/20/0513/18/58006001_912127432.shtml)
+* [雪崩](http://www.360doc.com/content/20/0513/18/58006001_912127432.shtml)
 
 <a id="recruitment-time-post"></a>
 
