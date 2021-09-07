@@ -53,6 +53,10 @@
 
 ## ➕ C/C++
 
+### 虚函数虚继承
+https://blog.csdn.net/weixin_43891775/article/details/112003915?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.essearch_pc_relevant&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.essearch_pc_relevant
+### 智能指针（内存泄漏）
+https://avdancedu.com/9683d88/
 ### 类型安全
 
 1. 相比C多了许多保证类型安全的机制（const，inline代替define，模板代替void*，new比malloc等）；
