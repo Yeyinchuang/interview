@@ -3426,7 +3426,7 @@ int main( void )
 * [epoll（数据结构和水平边缘触发）](https://blog.csdn.net/daaikuaichuan/article/details/83862311)
 * [一致性哈希（hash圈，顺时针旋转到最近）](https://www.cnblogs.com/lpfuture/p/5796398.html)
 * [大量的time_wait问题：改残参数增加复用](https://www.cnblogs.com/dadonggg/p/8778318.html)
-* [惊群](http://www.360doc.com/content/20/0513/18/58006001_912127432.shtml)
+* [布隆过滤器](http://www.360doc.com/content/20/0513/18/58006001_912127432.shtml)
 * [雪崩](http://www.360doc.com/content/20/0513/18/58006001_912127432.shtml)
 
 <a id="recruitment-time-post"></a>
