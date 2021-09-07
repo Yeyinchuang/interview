@@ -1788,7 +1788,7 @@ B 树、B+ 树图片
 2-3树 | O(log<sub>2</sub>n - log<sub>3</sub>n) |   | 
 B树/B+树 |O(log<sub>2</sub>n) |   | 
 
-* [二分搜索](https://user-images.githubusercontent.com/63219114/132320910-44ab35ac-92fe-44b7-8740-01111343b87a.png)
+* [二分搜索](https://www.cnblogs.com/kyoner/p/11080078.html)
 
 
 ### 图搜索算法
