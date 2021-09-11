@@ -2679,7 +2679,7 @@ ssize_t write(int fd, const void *buf, size_t count);
 > 各大设计模式例子参考：[CSDN专栏 . C++ 设计模式](https://blog.csdn.net/liang19890820/article/details/66974516) 系列博文
 
 [设计模式工程目录](DesignPattern)
-
+[不错的学习设计模式网站](https://refactoringguru.cn/design-patterns)
 ### 单例模式
 
 [单例模式例子](DesignPattern/SingletonPattern)
