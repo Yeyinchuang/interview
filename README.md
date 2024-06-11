@@ -57,6 +57,9 @@
 https://blog.csdn.net/weixin_43891775/article/details/112003915?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.essearch_pc_relevant&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.essearch_pc_relevant
 
 https://blog.csdn.net/IT_Quanwudi/article/details/88081934
+### 内存分布
+https://www.julysblog.cn/posts/new&delete-C++-Memory-Management/
+
 ### 智能指针（内存泄漏）
 https://avdancedu.com/9683d88/
 ### 类型安全
