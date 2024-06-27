@@ -2082,6 +2082,8 @@ int main()
 
 > 本节部分知识点来自《计算机网络（第 7 版）》
 
+https://www.nowcoder.com/discuss/375434024733450240
+
 计算机网络体系结构：
 
 ![计算机网络体系结构](https://gitee.com/huihut/interview/raw/master/images/计算机网络体系结构.png)
